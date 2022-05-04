@@ -1,0 +1,31 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.todo-container { 
+  padding-top: 3em;
+  /* display: grid; */
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+}
+
+h1 { 
+  padding-bottom: 1em;
+}
+
+ul { 
+  display: grid;
+  justify-content: center;
+}
+
+li { 
+  margin-top: 1em;
+  list-style: none;
+}
